@@ -9,6 +9,10 @@
 - 博客文章的上传
 - 后台统计分析
 ## 效果图
-
+- 首页：![image](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
+- 登录页：![image](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
+- 后台页：![image](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
+- 增加公司：![image](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
+### 动图太大，想看需点击
  ![image](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
 ## 后续会继续完善...
