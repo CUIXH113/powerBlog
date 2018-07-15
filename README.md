@@ -10,5 +10,5 @@
 - 后台统计分析
 ## 效果图
 
- ![效果图](powerBlog/web/showPics/web1.gif)
+ ![效果图](https://github.com/muchunlin/powerBlog/web/showPics/web1.gif)
 ## 后续会继续完善...
