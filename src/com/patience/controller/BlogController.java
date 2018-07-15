@@ -81,7 +81,7 @@ public class BlogController {
 	}
 	/**
 	 * 上传博客文章
-	 * @param blogType
+	 * @param blog
 	 * @param blogFile
 	 * @return
 	 */

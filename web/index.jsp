@@ -11,7 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
-  <h1>网站开始了</h1>
+  <h1>博客测试页面</h1>
+  <p>
+      博客文章内容详细打开页面页面页面
+  </p>
   </body>
 </html>
