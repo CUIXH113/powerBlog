@@ -26,7 +26,11 @@ import com.patience.entity.User;
 public class TestSSH {
     
     private ApplicationContext ctx = null;
-    
+
+    @Test
+    public void testNew() {
+
+    }
     @Test
     public void testDataSource() {
         ctx = new ClassPathXmlApplicationContext("applicationContext.xml");
